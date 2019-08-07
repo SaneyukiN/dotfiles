@@ -1,2 +1,2 @@
-set clipboard+=unnamed
-set clipboard+=autoselect
+set clipboard=unnamed
+set clipboard+=unnamedplus
